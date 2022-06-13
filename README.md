@@ -1,5 +1,7 @@
 ## Hey 👋, I'm TaeSung Lee
-I'm a backend(Node.js) junior developer. My aim for community growth by enjoying the problem-solving process and sharing achievements with others. When I'm stuck in a thought or process, I organize my thoughts by drawing pictures.
+I'm a backend(Node.js) junior developer.  
+My aim for community growth by enjoying the problem-solving process and sharing achievements with others.  
+When I'm stuck in a thought or process, I organize my thoughts by drawing pictures.
 
 ### 🧐 More About Me:
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/qwe1234k?tab=repositories)
