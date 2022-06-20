@@ -20,3 +20,5 @@ When I'm stuck in a thought or process, I organize my thoughts by drawing pictur
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwe1234k)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=xkskxhtm96)](https://solved.ac/xkskxhtm96)
