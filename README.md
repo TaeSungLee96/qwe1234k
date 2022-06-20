@@ -1,4 +1,5 @@
-## Hey 👋, I'm TaeSung Lee
+## Hey 👋, I'm TaeSung Lee [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqwe1234k&count_bg=%23D5454D&title_bg=%233E6BD1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 I'm a backend(Node.js) junior developer.  
 My aim for community growth by enjoying the problem-solving process and sharing achievements with others.  
 When I'm stuck in a thought or process, I organize my thoughts by drawing pictures.
@@ -17,4 +18,4 @@ When I'm stuck in a thought or process, I organize my thoughts by drawing pictur
 ### 🗃 Database:
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqwe1234k&count_bg=%23D5454D&title_bg=%233E6BD1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
