@@ -19,3 +19,4 @@ When I'm stuck in a thought or process, I organize my thoughts by drawing pictur
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwe1234k)](https://github.com/anuraghazra/github-readme-stats)
